@@ -23,7 +23,7 @@ octal@kali:~$ _
 * **Defensive Ops & Labs:** Documentation and practical labs focused on Blue Team operations.
 * **Security+ Prep:** Labs for my **CompTIA Security+** (Targeting Nov 2026).
 * **Development & Scripts:** Personal coding projects and scripts.
-* * **Homelab Files:** Scripts used in my Homelab. ([View on GitBook](https://misteroctal.gitbook.io/octal-lab))
+* **Homelab Files:** Scripts used in my Homelab. ([View on GitBook](https://misteroctal.gitbook.io/octal-lab)) (Work In Progress!)
 
 ### 🎓 Education
 * **HND Network Engineering** | *Current* (Expected completion: Oct 2026)
