@@ -8,13 +8,12 @@ octal@kali:~$ uptime -p
 up 16 years
 
 octal@kali:~$ jobs
-[1]  Running  Part-time ICT Tutor Contract
-[2]  Running  HND Network Engineering (Ends Oct 2026)
-[3]  Running  CompTIA Security+ Prep (Exam Nov 2026)
+[1]  Running  HND Network Engineering (Ends Oct 2026)
+[2]  Running  CompTIA Security+ Prep (Exam Nov 2026)
 
 octal@kali:~$ cat /var/log/future_plans.log
 Target:    Cybersecurity Analyst
-Location:  University College Birmingham (Start 2027)
+Location:  British Columbia Institute of Technology (Start 2027)
 
 octal@kali:~$ _
 ```
@@ -27,7 +26,6 @@ octal@kali:~$ _
 
 ### 🎓 Education
 * **HND Network Engineering** | *Current* (Expected completion: Oct 2026)
-* **University College Birmingham** | *Future* (Starting 2027)
 
 # 🛠️ Skills & Tools
 A collection of languages and technologies I'm currently exploring and mastering.
