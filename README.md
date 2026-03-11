@@ -5,7 +5,7 @@ octal@kali:~$ whoami
 MisterOctal
 
 octal@kali:~$ uptime -p
-up 16 years
+up 17 years
 
 octal@kali:~$ jobs
 [1]  Running  HND Network Engineering (Ends Oct 2026)
