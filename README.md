@@ -9,7 +9,8 @@ up 17 years
 
 octal@kali:~$ jobs
 [1]  Running  HND Network Engineering (Ends Oct 2026)
-[2]  Running  CompTIA Security+ Prep (Exam Nov 2026)
+[2]  Running  Microsoft Certified: Security Operations Analyst Associate  (Exam Aug 2026)
+[3]  Running  CompTIA Security+ Prep (Exam Nov 2026)
 
 octal@kali:~$ cat /var/log/future_plans.log
 Target:    Cybersecurity Analyst
@@ -19,7 +20,8 @@ octal@kali:~$ _
 
 ### 🛡️ What I intend on posting
 * **Defensive Ops & Labs:** Documentation and practical labs focused on Blue Team operations.
-* **Security+ Prep:** Labs for my **CompTIA Security+** (Targeting Nov 2026).
+* **Cert Prep:** Labs for my various certifications.
+* **Personal Projects:** Projects that I've developed for personal usage.
 * **Homelab Files:** Scripts used in my Homelab. ([View on GitBook](https://misteroctal.gitbook.io/octal-lab)) (Work In Progress!)
 
 ### 🎓 Education
