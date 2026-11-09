@@ -8,8 +8,9 @@ octal@kali:~$ uptime -p
 up 17 years
 
 octal@kali:~$ jobs
-[1]  Running  HND Network Engineering (Ends Oct 2026)
-[2]  Running  Transfer Applications
+[1]  Running  Transfer Applications
+[2]  Running  Portfolio Building
+[3]  Running  Thheinngu32 Project Contributions
 
 octal@kali:~$ cat /var/log/future_plans.log
 Target:    Cybersecurity Analyst / Engineer
@@ -39,7 +40,7 @@ AI Tools I use in developing projects and academic research.
 
 # 🎓 Certifications & Certificates
 ### 🏛️ Earned & Completed
-![THM Cyber 101](https://img.shields.io/badge/THM-Cyber_101-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) ![SOC Level 1](https://img.shields.io/badge/THM-SOC_L1-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) ![THM AI Security](https://img.shields.io/badge/THM-AI_Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) ![Microsoft SC-200](https://img.shields.io/badge/Microsoft_SC--200-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft SC-200](https://img.shields.io/badge/Microsoft_SC--200-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🛠️ In Progress
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-C8202F?style=for-the-badge&logo=comptia&logoColor=white) ![Security Engineer](https://img.shields.io/badge/THM-Security_Engineer-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
