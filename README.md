@@ -21,10 +21,11 @@ octal@kali:~$ _
 ### 📌 What I post here
 * **Academic Content:** Course capstones and coursework from my HND program.
 * **Personal Projects:** Projects I've built for personal use.
-* **Homelab Files:** Scripts and docs from my homelab. ([View on GitBook](https://misteroctal.gitbook.io/octal-lab)) — wrapped up for now.
+* **Homelab Files:** Scripts and docs from my homelab. ([View on GitBook (legacy)](https://misteroctal.gitbook.io/octal-lab)) — wrapped up for now.
+* **Writeups:** Writeups for TryHackMe, personal projects, and more.  ([View on Hashnode](https://hashnode.com/@MisterOctal))
 
 ### 🎓 Education
-* **HND Network Engineering** | *Current* (Expected completion: Oct 2026)
+* **Pearson BTEC Higher National Diploma Network Engineering**
 
 # 🛠️ Skills & Tools
 A collection of languages and technologies I'm currently exploring and mastering.
